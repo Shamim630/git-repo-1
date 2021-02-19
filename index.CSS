@@ -1,7 +1,13 @@
-body{
-    background-color:darkgreen;
-    color: rgb(255, 0, 0);
+body {
+  background-color: darkgreen;
+  color: rgb(255, 187, 0);
 }
-footer{
-    color: rgb(14, 6, 90);
+footer {
+  color: rgb(165, 80, 11);
+}
+h1 {
+  text-align: center;
+}
+div {
+  background-color: rgb(196, 28, 28);
 }
